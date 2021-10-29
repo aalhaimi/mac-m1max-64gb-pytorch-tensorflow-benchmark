@@ -14,5 +14,5 @@
 
 | DL framework | Smaller batch size | Larger batch size |
 | :---         |     :---:      |          ---: |
-| TensorFlow (Metal)  | 1min 55s     | 12.2 s   |
-| PyTorch  (CPU)  | 15min 59s       | 15min 9s      |
+| TensorFlow (Metal)  | 1min 35s     | 22.1 s   |
+| PyTorch  (CPU)  | 5min 35s       | 3min 57s      |
